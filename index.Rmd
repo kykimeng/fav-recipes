@@ -1,0 +1,17 @@
+--- 
+title: "Kim Eng's Favorite Recipes"
+author: "Kim Eng Ky"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: kykimeng/fav-recipes
+description: "This is a collection of recipes that I love!"
+---
+
+# What's this? 
+
+This is a collection of recipes that I love. Enjoy!

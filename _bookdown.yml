@@ -1,0 +1,5 @@
+book_filename: "kim recipe"
+language:
+  ui:
+    chapter_name: "Recipe "
+delete_merged_file: true
