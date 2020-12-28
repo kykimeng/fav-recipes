@@ -1,10 +1,12 @@
-# Beef Bulgogi {#bulgogi}
+# Beef
+
+## Beef Bulgogi {#bulgogi}
 
 Original recipe from: https://mykoreankitchen.com/bulgogi-korean-bbq-beef/
 
-## Ingredients
+### Ingredients
 
-### Main
+#### Main
 
 - 1.76 pounds, rib eye steak (or any tender prime beef cut, thinly sliced, 2mm to 3mm thickness)
 - 1,            onion (peeled & thinly sliced)
@@ -14,7 +16,7 @@ Original recipe from: https://mykoreankitchen.com/bulgogi-korean-bbq-beef/
 - 1 tablespoon,      toasted sesame seeds
 - 1 tablespoon,      cooking oil
 
-### Marinade
+#### Marinade
 
 - 6 tablespoons,      soy sauce
 - 3 tablespoons,      brown sugar
@@ -25,7 +27,7 @@ Original recipe from: https://mykoreankitchen.com/bulgogi-korean-bbq-beef/
 - 1 teaspoon,        ginger (minced)
 - 1/8 teaspoons,     ground black pepper
 
-## Instructions
+### Instructions
 
 1. Blend the marinade ingredients in a mixer or food processor until smooth. Set aside.
 2. Place the thinly sliced meat in a mixing bowl and pour the marinade over it. Mix them well together while gently massaging the meat with your hands (use gloves). Add the sesame oil and mix it into the meat. Cover the bowl with cling wrap and marinate the meat for at least 4 hours in the fridge. 
